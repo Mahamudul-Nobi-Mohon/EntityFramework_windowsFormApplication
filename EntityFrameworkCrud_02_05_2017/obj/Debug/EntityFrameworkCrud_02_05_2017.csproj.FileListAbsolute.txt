@@ -1,0 +1,13 @@
+c:\users\mohon\documents\visual studio 2015\Projects\EntityFrameworkCrud_02_05_2017\EntityFrameworkCrud_02_05_2017\bin\Debug\EntityFrameworkCrud_02_05_2017.exe.config
+c:\users\mohon\documents\visual studio 2015\Projects\EntityFrameworkCrud_02_05_2017\EntityFrameworkCrud_02_05_2017\bin\Debug\EntityFrameworkCrud_02_05_2017.exe
+c:\users\mohon\documents\visual studio 2015\Projects\EntityFrameworkCrud_02_05_2017\EntityFrameworkCrud_02_05_2017\bin\Debug\EntityFrameworkCrud_02_05_2017.pdb
+c:\users\mohon\documents\visual studio 2015\Projects\EntityFrameworkCrud_02_05_2017\EntityFrameworkCrud_02_05_2017\bin\Debug\EntityFramework.dll
+c:\users\mohon\documents\visual studio 2015\Projects\EntityFrameworkCrud_02_05_2017\EntityFrameworkCrud_02_05_2017\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\mohon\documents\visual studio 2015\Projects\EntityFrameworkCrud_02_05_2017\EntityFrameworkCrud_02_05_2017\bin\Debug\EntityFramework.xml
+c:\users\mohon\documents\visual studio 2015\Projects\EntityFrameworkCrud_02_05_2017\EntityFrameworkCrud_02_05_2017\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\mohon\documents\visual studio 2015\Projects\EntityFrameworkCrud_02_05_2017\EntityFrameworkCrud_02_05_2017\obj\Debug\EntityFrameworkCrud_02_05_2017.csprojResolveAssemblyReference.cache
+c:\users\mohon\documents\visual studio 2015\Projects\EntityFrameworkCrud_02_05_2017\EntityFrameworkCrud_02_05_2017\obj\Debug\EntityFrameworkCrud_02_05_2017.Form1.resources
+c:\users\mohon\documents\visual studio 2015\Projects\EntityFrameworkCrud_02_05_2017\EntityFrameworkCrud_02_05_2017\obj\Debug\EntityFrameworkCrud_02_05_2017.Properties.Resources.resources
+c:\users\mohon\documents\visual studio 2015\Projects\EntityFrameworkCrud_02_05_2017\EntityFrameworkCrud_02_05_2017\obj\Debug\EntityFrameworkCrud_02_05_2017.csproj.GenerateResource.Cache
+c:\users\mohon\documents\visual studio 2015\Projects\EntityFrameworkCrud_02_05_2017\EntityFrameworkCrud_02_05_2017\obj\Debug\EntityFrameworkCrud_02_05_2017.exe
+c:\users\mohon\documents\visual studio 2015\Projects\EntityFrameworkCrud_02_05_2017\EntityFrameworkCrud_02_05_2017\obj\Debug\EntityFrameworkCrud_02_05_2017.pdb
